@@ -2,7 +2,7 @@
 
 
 
-![微信图片_20231021104617](C:\Users\Aba1\Desktop\微信图片_20231021104617.png)
+![assets/](assets/微信图片_20231021104617.png)
 
 
 
@@ -22,7 +22,7 @@ Mysql是由SQL接口，解析器，优化器，缓存，存储引擎组成的。
 
 如下图：
 
-![屏幕截图 2023-10-22 120428](C:\Users\Aba1\Desktop\屏幕截图 2023-10-22 120428.png)
+![](assets/屏幕截图 2023-10-22 120428.png)
 
 1. Connectors指的是不同语言中与SQL的交互
 2. Management Serveices & Utilities：系统管理和控制工具，例如备份恢复、Mysql复制、集群等
